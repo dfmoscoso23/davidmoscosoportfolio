@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woocommerce on David Moscoso</title>
+    <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/woocommerce/</link>
+    <description>Recent content in Woocommerce on David Moscoso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/woocommerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Develop a Client API for Woocommerce and Ultra Gestion</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apiwoocommerce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apiwoocommerce/</guid>
+      <description>Based on the Mercado libre clien api desktop tool, I develop a more generic API client for Woocommerce. It was usefull to sync stocks of the bookstore and the online shop in Woocommerce.</description>
+    </item>
+    
+  </channel>
+</rss>

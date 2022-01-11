@@ -12,10 +12,38 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/bort_va/</guid>
-      <description>&amp;ldquo;BORT&amp;rdquo;is a structure of recognizing intentions for a Virtual Assistant.It combines the Neural Network BERT of Google and Naive Bayes Algoithms with CountVectorizer to understand the intention of the user.
+      <description>&amp;ldquo;BORT&amp;rdquo;is a structure of recognizing intentions for a Virtual Assistant.It combines the Neural Network BERT of Google and Naive Bayes Algorithms with CountVectorizer to understand the intention of the user.
 In collaboration with:
  Adrián Cox Garzón Tomás González  GitHub Repository
 Virtual Assistant vs. Chatbot A chatbot is a simple bot who has commands to activate responses or functions. Our idea was to set a bot that can be integrated in a fluid conversational chat.</description>
+    </item>
+    
+    <item>
+      <title>Data Science in Madrid</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/ds_madrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/ds_madrid/</guid>
+      <description>GitHub Repository
+How much time a new Data Scientist have to wait to find a Data Science Job? To answer this question, I analyzed more than one thousand LinkedIn profiles of Data Scientist who live in Madrid. The analysis focus on the academic backgrounds of the profiles and how much time past from the end of their Data Scientist Studies and his first Job as Data Scientist. Following this analyzes I made a model to know the probability of find a job in a period like the people who has the same academic background.</description>
+    </item>
+    
+    <item>
+      <title>Develop a Client API for Mercado Libre and Editorial Losada</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apimercadolibre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apimercadolibre/</guid>
+      <description>As E-commerce coordinator of Editorial Losada, I had developed some tools to sync the bookstore Data-base and the API of Mercado Libre, for selling books. It automatizes the process of posting, and update stocks in the platform. It works like a Desktop tool.</description>
+    </item>
+    
+    <item>
+      <title>Develop a Client API for Woocommerce and Ultra Gestion</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apiwoocommerce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apiwoocommerce/</guid>
+      <description>Based on the Mercado libre clien api desktop tool, I develop a more generic API client for Woocommerce. It was usefull to sync stocks of the bookstore and the online shop in Woocommerce.</description>
     </item>
     
   </channel>

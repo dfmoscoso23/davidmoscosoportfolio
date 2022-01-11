@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on David Moscoso</title>
+    <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/jobs/</link>
+    <description>Recent content in Jobs on David Moscoso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science in Madrid</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/ds_madrid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/ds_madrid/</guid>
+      <description>GitHub Repository
+How much time a new Data Scientist have to wait to find a Data Science Job? To answer this question, I analyzed more than one thousand LinkedIn profiles of Data Scientist who live in Madrid. The analysis focus on the academic backgrounds of the profiles and how much time past from the end of their Data Scientist Studies and his first Job as Data Scientist. Following this analyzes I made a model to know the probability of find a job in a period like the people who has the same academic background.</description>
+    </item>
+    
+  </channel>
+</rss>

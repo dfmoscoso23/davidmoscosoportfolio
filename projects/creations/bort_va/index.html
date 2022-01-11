@@ -6,8 +6,8 @@
   <title>David Moscoso | BORT a Virtual Assistant - BOT</title>
   <meta property="og:title" content="David Moscoso | BORT a Virtual Assistant - BOT" />
   <meta property="og:image" content="https://dfmoscoso23.github.io/davidmoscosoportfolio/img/dav-sego.jpg" />
-  <meta name="description" content="BORT&lt;em&gt; is a structure of recognizing intentions for a Virtual Assistant.&lt;/em&gt; It combines the Neural Network BERT of Google and Naive Bayes Algoithms with CountVectorizer to understand the intention of the user. ">
-  <meta property="og:description" content="BORT&lt;em&gt; is a structure of recognizing intentions for a Virtual Assistant.&lt;/em&gt; It combines the Neural Network BERT of Google and Naive Bayes Algoithms with CountVectorizer to understand the intention of the user. " />
+  <meta name="description" content="BORT&lt;em&gt; is a structure of recognizing intentions for a Virtual Assistant.&lt;/em&gt; It combines the Neural Network BERT of Google and Naive Bayes Algorithms with CountVectorizer to understand the intention of the user. ">
+  <meta property="og:description" content="BORT&lt;em&gt; is a structure of recognizing intentions for a Virtual Assistant.&lt;/em&gt; It combines the Neural Network BERT of Google and Naive Bayes Algorithms with CountVectorizer to understand the intention of the user. " />
   <meta name="author" content="David Moscoso">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -117,7 +117,7 @@
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
     <h2 class="mb-0"><span class="text-primary">BORT a Virtual Assistant - BOT</span></h2>
-    <p>&ldquo;BORT&rdquo;<!-- raw HTML omitted --> is a structure of recognizing intentions for a Virtual Assistant.<!-- raw HTML omitted --> It combines the Neural Network BERT of Google and Naive Bayes Algoithms with CountVectorizer to understand the intention of the user.</p>
+    <p>&ldquo;BORT&rdquo;<!-- raw HTML omitted --> is a structure of recognizing intentions for a Virtual Assistant.<!-- raw HTML omitted --> It combines the Neural Network BERT of Google and Naive Bayes Algorithms with CountVectorizer to understand the intention of the user.</p>
 <p><strong>In collaboration with:</strong></p>
 <ul>
 <li><a href="https://www.linkedin.com/in/adrian-cox/">Adrián Cox Garzón</a></li>
@@ -125,25 +125,25 @@
 </ul>
 <p><a href="https://github.com/evilelmo-corp/alfobot"><strong>GitHub Repository</strong></a></p>
 <h3 id="virtual-assistant-vs-chatbot">Virtual Assistant vs. Chatbot</h3>
-<p>A chatbot is a simple bot who has commands to activate responses or functions. Our idea was to set a bot that can be integrated in a fluid conversational chat. The bot only interacts with others when it understand that the users need some help or want to listen a joke. To interact with it, it´s not necessary to summon it, because it is always listening and understanding. Because of this, it&rsquo;s not just a bot it is a real virtual assitant who helps you whenever you need.</p>
+<p>A chatbot is a simple bot who has commands to activate responses or functions. Our idea was to set a bot that can be integrated in a fluid conversational chat. The bot only interacts with others when it understands that the users need some help or want to listen a joke. To interact with it, it´s not necessary to summon it, because it is always listening and understanding. Because of this, it&rsquo;s not just a bot it is a real virtual assistant who helps you whenever you need.</p>
 <h3 id="basic-structure">Basic structure</h3>
-<p>The structure of BORT is ment not only to be a chat bot it can be usefull in some many ways, because it has a modular structure.</p>
-<p>When the input is recepted it pass for two layers to be understood. The first layer is a multilabel clasification with multilingual BERT. The neural network was trained to recognize the basic intention of the input. When the basic intention is detected the input pass to another clasification with CountVectorizer and a Naive Bayes Model. This model classifies in the semantics of the intention within the possible sections or answer to the intention preset for the VA. Then the VA acts acordding to the intention identified.</p>
+<p>The structure of BORT is meant not only to be a chat bot it can be useful in some many ways, because it has a modular structure.</p>
+<p>When the input is recepted it pass for two layers to be understood. The first layer is a multilabel classification with multilingual BERT. The neural network was trained to recognize the basic intention of the input. When the basic intention is detected the input pass to another classification with CountVectorizer and a Naive Bayes Model. This model classifies in the semantics of the intention within the possible sections or answer to the intention preset for the VA. Then the VA acts according to the intention identified.</p>
 <figure><img src="https://dfmoscoso23.github.io/davidmoscosoportfolio/img/bort.jpg" width="800" height="400"/>
 </figure>
 
 <!-- raw HTML omitted -->
 <h3 id="models">MODELS</h3>
 <h4 id="multilingual-classifier-bert">Multilingual Classifier BERT</h4>
-<p>BORT preclassifies in four intentions: Informative, Requests, Questions, and Fun. Multilingual BERT was pretrained in 104 lenguajes with the content of Wikipedia. Bert was pretrained withput a label, it only was trained to predict the next sentence, or masked words. We trained MB with original phrases labeled with this intentions.</p>
+<p>BORT pre-classifies in four intentions: Informative, Requests, Questions, and Fun. Multilingual BERT was pretrained in 104 languages with the content of Wikipedia. Bert was pretrained without a label, it only was trained to predict the next sentence, or masked words. We trained MB with original phrases labeled with these intentions.</p>
 <h4 id="naive-bayes-and-countvectorizer">Naive Bayes and CountVectorizer</h4>
-<p>BERT is great finding the basic intention, but to process the semantics of the Frase CountVectorizer works better. It vectorize the words and calculate the frecuence of the lemma with a TF-IDF calculus. The Naive Bayes model classifies in to the multiple responses presets for that intention.</p>
-<p>This divition in two models makes BERT pay more attention in the sintax of the input and the Naive Bayes more in the Semantics. Combined can predict the intention of the user with an accuracy superior to 90%.</p>
+<p>BERT is great finding the basic intention, but to process the semantics of the Phrase CountVectorizer works better. It vectorize the words and calculate the frequencies of the lemma with a TF-IDF calculus. The Naive Bayes model classifies into the multiple responses presets for that intention.</p>
+<p>This division in two models makes BERT pay more attention in the syntax of the input and the Naive Bayes more in the Semantics. Combined can predict the intention of the user with an accuracy superior to 90%.</p>
 <h2 id="alfobot-an-instance-of-bort">Alfobot an instance of BORT</h2>
-<p>We set a first instance of BORT in a Discord BOT. Alfobot was made in the image and likeness of Alfonso D. Blazquez a Data Science teacher. Alfobot have 13 functions related with learning Machine Learning and Deep Learning. It can help you providing code of the models, or helping optimizing your model. One special feature of Alfobot is the jokes it can answer, because it was designed with a recommendation algorithm. Alfobot is now running freely in three Discord Servers.</p>
+<p>We set a first instance of BORT in a Discord BOT. Alfobot was made in the image and likeness of Alfonso D. Blazquez a Data Science teacher. Alfobot have 13 functions related with learning Machine Learning and Deep Learning. It can help you providing code of the models or helping optimizing your model. One special feature of Alfobot is the jokes it can answer, because it was designed with a recommendation algorithm. Alfobot is now running freely in three Discord Servers.</p>
 <h3 id="models-of-alfobot">Models of Alfobot</h3>
-<p>We trained BERT with all the conversation in a server of Discord. And the Naive Bayes with the same phrases but with the especific function asociated with the frase.</p>
-<p>The recommendation algorithm extract the lemmas of the words of each sentence of the input and search in the data base of possible answers. It create a pool of phrases that matches a 80% of the lemmas. Then it select the answer with a weighted random algorithm, where the weihgts are calculated with the historic response to that phrase. It takes into account how much the users laugh, the rections and how much was used that phrase previosly.</p>
+<p>We trained BERT with all the conversation in a server of Discord. And the Naive Bayes with the same phrases but with the specific function associated with the phrase.</p>
+<p>The recommendation algorithm extracts the lemmas of the words of each sentence of the input and search in the data base of possible answers. It creates a pool of phrases that matches a 80% of the lemmas. Then it selects the answer with a weighted random algorithm, where the weights are calculated with the historic response to that phrase. It takes into account how much the users laugh, the reactions and how much was used that phrase previously.</p>
 <p><img src="https://dfmoscoso23.github.io/davidmoscosoportfolio/img/alf1.png" alt="Alfobot_1">
 <img src="https://dfmoscoso23.github.io/davidmoscosoportfolio/img/alf2.png" alt="Alfobot_2">
 <img src="https://dfmoscoso23.github.io/davidmoscosoportfolio/img/image.png" alt="Alfobot_4"></p>
