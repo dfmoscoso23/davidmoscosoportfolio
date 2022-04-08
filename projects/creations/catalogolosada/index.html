@@ -3,11 +3,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>David Moscoso | Develop a Client API for Mercado Libre and Editorial Losada</title>
-  <meta property="og:title" content="David Moscoso | Develop a Client API for Mercado Libre and Editorial Losada" />
+  <title>David Moscoso | Rebuilding a book&#39;s Catalog of a Publisher</title>
+  <meta property="og:title" content="David Moscoso | Rebuilding a book&#39;s Catalog of a Publisher" />
   <meta property="og:image" content="https://dfmoscoso23.github.io/davidmoscosoportfolio/img/dav-sego.jpg" />
-  <meta name="description" content="Develop python apps to coordinate selling and sync the data base of the physical store with the on-line store">
-  <meta property="og:description" content="Develop python apps to coordinate selling and sync the data base of the physical store with the on-line store" />
+  <meta name="description" content="A publisher lost his main Catalog with the metadata, but all the data was on his web page. With web scrapping tools I rebuild the catalog of thousands of books.">
+  <meta property="og:description" content="A publisher lost his main Catalog with the metadata, but all the data was on his web page. With web scrapping tools I rebuild the catalog of thousands of books." />
   <meta name="author" content="David Moscoso">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -105,7 +105,7 @@
 
 
 <li class="breadcrumb-item active">
-  <a href="https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/apimercadolibre/">Develop a Client API for Mercado Libre and Editorial Losada</a>
+  <a href="https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/catalogolosada/">Rebuilding a book&#39;s Catalog of a Publisher</a>
 </li>
 
   </ol>
@@ -116,25 +116,41 @@
 
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-    <h2 class="mb-0"><span class="text-primary">Develop a Client API for Mercado Libre and Editorial Losada</span></h2>
-    <p>As E-commerce coordinator of Editorial Losada, I had developed some tools to sync the bookstore Data-base and the API of Mercado Libre, for selling books. It automatizes the process of posting, and update stocks in the platform. It works like a Desktop tool.</p>
+    <h2 class="mb-0"><span class="text-primary">Rebuilding a book&#39;s Catalog of a Publisher</span></h2>
+    <p><a href="https://github.com/dfmoscoso23/bookcatalog"><strong>GitHub Repository</strong></a></p>
+<h2 id="content-of-a-books-catalog-of-a-publisher">Content of a Book&rsquo;s Catalog of a Publisher</h2>
+<p>A publisher&rsquo;s Catalog has all the data and metadata related to his books. For example:</p>
+<ul>
+<li>ISBN</li>
+<li>Title</li>
+<li>Author</li>
+<li>Dimensions</li>
+<li>Pages</li>
+<li>Summary</li>
+<li>Translator</li>
+<li>Illustrator</li>
+<li>Type of Cover</li>
+<li>Image Url</li>
+</ul>
+<p>This publisher has all this information in his web page, but it was uploaded manually and he has not a unic file with the information.</p>
+<h2 id="scrapping-of-the-data">Scrapping of the Data</h2>
+<p>To collect the data I iterate a list of ISBN (International Serial Book Number) to find the exact page in the web page. Then using Beautiful Soup, I extract the data for each page of each book. Subsequently I drop the information in a CSV using pandas.</p>
+<p>If some ISBN or some Data has mistakes it passes to a list of ISBN with problems to check it mannually.</p>
 
-    <p>Project link: <a href="https://github.com/dfmoscoso23/concatenadorml%20">https://github.com/dfmoscoso23/concatenadorml </a></p>
+    <p>Project link: <a href="https://github.com/dfmoscoso23/bookcatalog">https://github.com/dfmoscoso23/bookcatalog</a></p>
     <ul class="tags">
     
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/python">Python</a></li>
+      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/data-science">Data Science</a></li>
     
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/e-commerce">E-Commerce</a></li>
+      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/web-scrapping">Web Scrapping</a></li>
     
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/sql">SQL</a></li>
+      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/catalog">Catalog</a></li>
     
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/postgrees">Postgrees</a></li>
+      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/beautiful-soup">Beautiful Soup</a></li>
     
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/tkinter">Tkinter</a></li>
+      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/data-bases">Data bases</a></li>
     
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/api">API</a></li>
-    
-      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/mercado-libre">Mercado Libre</a></li>
+      <li><a class="tag" href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/selenium">Selenium</a></li>
     
 </ul>
 

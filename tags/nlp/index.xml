@@ -18,5 +18,15 @@ In collaboration with:
 Virtual Assistant vs. Chatbot A chatbot is a simple bot who has commands to activate responses or functions. Our idea was to set a bot that can be integrated in a fluid conversational chat.</description>
     </item>
     
+    <item>
+      <title>Ecuadorian Linguistic Corpus</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/corpus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/corpus/</guid>
+      <description>GitHub Repository
+Backend structure To create a structure for a corpus, first is necessarily think in databases. Considering that a corpus is going to manage thousands of words, lemmas, forms and documents it needs a big DDBB manager, I choose Postgres for that. Also, I choose Django because you can manage a big web page with modular parts. That means it can be growing with no conflicts of the other modules.</description>
+    </item>
+    
   </channel>
 </rss>

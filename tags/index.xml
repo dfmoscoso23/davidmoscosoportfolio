@@ -143,11 +143,29 @@
     </item>
     
     <item>
+      <title>AJAX</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/ajax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/ajax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>API</title>
       <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/backend/</guid>
       <description></description>
     </item>
     
@@ -161,6 +179,15 @@
     </item>
     
     <item>
+      <title>Beautiful Soup</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/beautiful-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/beautiful-soup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BERT</title>
       <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/bert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -170,11 +197,29 @@
     </item>
     
     <item>
+      <title>Bootstrap</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bot</title>
       <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalog</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/catalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/catalog/</guid>
       <description></description>
     </item>
     
@@ -197,6 +242,15 @@
     </item>
     
     <item>
+      <title>Data bases</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/data-bases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/data-bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science</title>
       <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -215,6 +269,15 @@
     </item>
     
     <item>
+      <title>Django</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/django/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>E-Commerce</title>
       <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/e-commerce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -229,6 +292,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/html/</guid>
       <description></description>
     </item>
     
@@ -314,11 +386,38 @@
     </item>
     
     <item>
+      <title>Postgres</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/postgres/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/postgres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selenium</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/selenium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/selenium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spacy</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/spacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/spacy/</guid>
       <description></description>
     </item>
     
@@ -346,6 +445,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/virtual-assistant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scrapping</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/web-scrapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/web-scrapping/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Scrapping on David Moscoso</title>
+    <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/web-scrapping/</link>
+    <description>Recent content in Web Scrapping on David Moscoso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dfmoscoso23.github.io/davidmoscosoportfolio/tags/web-scrapping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebuilding a book&#39;s Catalog of a Publisher</title>
+      <link>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/catalogolosada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfmoscoso23.github.io/davidmoscosoportfolio/projects/creations/catalogolosada/</guid>
+      <description>GitHub Repository
+Content of a Book&amp;rsquo;s Catalog of a Publisher A publisher&amp;rsquo;s Catalog has all the data and metadata related to his books. For example:
+ ISBN Title Author Dimensions Pages Summary Translator Illustrator Type of Cover Image Url  This publisher has all this information in his web page, but it was uploaded manually and he has not a unic file with the information.
+Scrapping of the Data To collect the data I iterate a list of ISBN (International Serial Book Number) to find the exact page in the web page.</description>
+    </item>
+    
+  </channel>
+</rss>
